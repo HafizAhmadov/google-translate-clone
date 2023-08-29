@@ -8,7 +8,9 @@ export default {
     extend: {
       colors:{
         'theme-color': '#5F6368',
-        'hover-color': '#F5F5F5'
+        'hover-color': '#F5F5F5',
+        'blue':'#1967D2',
+        'border-color': '#DADCE0'
       },
       fontSize:{
         '1.5xl': '1.375rem'
